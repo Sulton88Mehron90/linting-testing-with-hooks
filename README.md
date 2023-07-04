@@ -9,10 +9,12 @@ Utilize hooks to refactor test suite.
 3. Run `npm install` to install dependencies.
 4. Run `npm test` to run tests.
 
-## To add a linter to your project using ESLint, follow these steps:
+### To add a linter to your project using ESLint, follow these steps:
 
 Install ESLint as a development dependency by running the following command in your project's root directory:
-```npm install --save-dev eslint
+```
+npm install --save-dev eslint
+
 ```
 
 Create a configuration file named .eslintrc in the project's root directory. Open the file and add the provided linting configuration.
