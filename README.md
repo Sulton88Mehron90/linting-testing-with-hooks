@@ -1,4 +1,4 @@
-# Testing Hooks Refactor
+# linting and testing hooks
 
 Utilize hooks to refactor test suite.
 
@@ -9,7 +9,7 @@ Utilize hooks to refactor test suite.
 3. Run `npm install` to install dependencies.
 4. Run `npm test` to run tests.
 
-##To add a linter to your project using ESLint, follow these steps:
+## To add a linter to your project using ESLint, follow these steps:
 
 Install ESLint as a development dependency by running the following command in your project's root directory:
 ```npm install --save-dev eslint
@@ -57,7 +57,7 @@ This script allows you to run ESLint on your project by executing npm run lint i
 
 Once you have completed these steps, you can run ESLint by running the lint script (npm run lint) in your project's root directory. It will analyze your JavaScript files based on the linting rules and report any violations or warnings in the console.
 
-###To create the .eslintrc configuration file and add the provided linting configuration, follow these steps:
+### To create the .eslintrc configuration file and add the provided linting configuration, follow these steps:
 
 Navigate to your project's root directory using the command line.
 
